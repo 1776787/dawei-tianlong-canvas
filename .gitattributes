@@ -1,0 +1,3 @@
+web/public/monoform/assets/*.js -whitespace
+* linguist-detectable=false
+start.bat text eol=crlf

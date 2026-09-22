@@ -1,0 +1,35 @@
+.next/
+out/
+node_modules/
+.env*
+!.env.example
+data/
+*.log
+*.tsbuildinfo
+.DS_Store
+.idea
+web/dist
+**/dist
+# Local development and visual-test artifacts
+.learnings/
+.workbuddy/
+web/.fix-tmp/
+web/.playwright-cli/
+web/output/
+# Personal configuration exports and backups
+infinite-canvas-config*.json
+infinite-canvas-backup*.zip
+backup.json
+backups/
+*.pem
+*.key
+*.pfx
+*.p12
+.npmrc
+.netrc
+.git-credentials
+# Local browser sessions and publishing output
+.playwright/
+playwright-report/
+test-results/
+github-upload/
